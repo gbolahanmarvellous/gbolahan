@@ -1,0 +1,18 @@
+.All{
+    border: 1px solid black;
+    width: 100px;
+    padding: 100px;
+    background-color: red;
+}
+.girls{
+    border: 1px solid black;
+    width: 100px;
+    padding: 100px;
+    background-color: yellow;
+}
+.are{
+    border: 1px solid black;
+    width: 100px;
+    padding: 100px;
+    background-color: green;
+}
